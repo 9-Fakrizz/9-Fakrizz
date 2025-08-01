@@ -1,36 +1,21 @@
-## Hello guys!, 大家好! 👋 I'm Fakrizz
-
----
-
-**Author:** Suphakrit Kongkham (Fax)
-
-**Faculty of Engineering, Chiang Mai University**
-
-I'm a passionate **engineering student**, **maker**, and **tech explorer** who enjoys turning ideas into real-world projects.  
-Currently studying **Robotics and AI Engineering** at Chiang Mai University 🇹🇭.
-
----
-
-#### 🔧 What I'm Working On
-- 🤖 Autonomous robots for real-world tasks (e.g., lawn mowing, ball collecting, firefighting drones)
-- 🚀 Embedded systems using ESP32, Teensy, and Raspberry Pi
-- 🧠 AI & ML applications for robotics and edge computing
-- 🛠️ FPGA acceleration with AMD/Xilinx Alveo (Vitis, HLS, XRT)
+<div align="center">
+  
+  <h1>Hello guys!, 大家好! 👋</h1>
+  <p>I'm Fax Suphakrit Kongkham</p>
+  <p>Faculty of Engineering, Chiang Mai University</p>
+  <p>I'm a passionate engineering student, maker, and tech explorer</p>
+  <p>who enjoys turning ideas into real-world projects.</p>
+  
+</div>
 
 ---
 
 #### 💡 Interests
-- Robotics, electronics, control systems
+- Embedded, electronics, control systems, Robotics 
+- AI & ML applications for robotics and edge computing
 - Low-level programming, firmware, and real-time systems
 - System design, prototyping, and building things from scratch
 - Tech for social impact 🌱
-
----
-
-#### 📫 Get in Touch
-- 🌐 [Portfolio / Website](#)
-- 📨 Reach me via [email](supakritgongkam@gmail.com), [CMU Mail](suphakrit_kongkham@cmu.ac.th)
-- 💬 I'm open to collaboration, internships, or just tech talks!
 
 ---
 
@@ -53,3 +38,10 @@ Currently studying **Robotics and AI Engineering** at Chiang Mai University 🇹
 
 > “Create more than you consume.”  
 > — One project at a time.
+
+---
+
+#### 📫 Get in Touch
+- 🌐 [Portfolio / Website](#)
+- 📨 Reach me via [email](supakritgongkam@gmail.com), [CMU Mail](suphakrit_kongkham@cmu.ac.th)
+- 💬 I'm open to collaboration, internships, or just tech talks!
