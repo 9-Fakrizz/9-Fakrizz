@@ -1,4 +1,10 @@
-### Hi there 👋 I'm Fakrizz
+## Hello guys!, 大家好! 👋 I'm Fakrizz
+
+---
+
+**Author:** Suphakrit Kongkham (Fax)
+
+**Faculty of Engineering, Chiang Mai University**
 
 I'm a passionate **engineering student**, **maker**, and **tech explorer** who enjoys turning ideas into real-world projects.  
 Currently studying **Robotics and AI Engineering** at Chiang Mai University 🇹🇭.
@@ -22,8 +28,8 @@ Currently studying **Robotics and AI Engineering** at Chiang Mai University 🇹
 ---
 
 #### 📫 Get in Touch
-- 🌐 [Portfolio / Website](#) _(insert your site if available)_
-- 📨 Reach me via [email](mailto:you@example.com) _(or replace with LinkedIn, etc.)_
+- 🌐 [Portfolio / Website](#)
+- 📨 Reach me via [email](supakritgongkam@gmail.com), [CMU Mail](suphakrit_kongkham@cmu.ac.th)
 - 💬 I'm open to collaboration, internships, or just tech talks!
 
 ---
